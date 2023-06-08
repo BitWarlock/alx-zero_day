@@ -1,1 +1,1 @@
-100-This is the same repo as alx-pre_course.
+This is the same repo as alx-pre_course.
